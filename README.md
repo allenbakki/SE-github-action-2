@@ -90,6 +90,9 @@ git push origin main
 
 Open the **Actions** tab on your GitHub repo and watch the workflow run.
 
+
+
+
 ### Step 4 — Confirm it catches a bug
 
 Push the bug from Part 3, watch the workflow go red, then fix and push again.
